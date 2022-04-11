@@ -38,8 +38,6 @@
   
   <a href="https://github.com/marcio-sgomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  
-  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 <!--
 **marcio-sgomes/marcio-sgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
