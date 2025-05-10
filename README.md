@@ -20,11 +20,11 @@
   <img align="center" alt="Márcio-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 
-<div align="center"><br>
+<div align="left"><br>
   <img alt="Márcio-pic" height="500" width="500" src="https://i.pinimg.com/originals/e0/1f/cb/e01fcb86cc0e7e5632c6323c1cc0023d.gif">
 </div>
 
-<div align="center"><br>
+<div align="left"><br>
   <a href="https://www.youtube.com/channel/UC0kO_LePkjnXr2pxdH6wM7w" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
